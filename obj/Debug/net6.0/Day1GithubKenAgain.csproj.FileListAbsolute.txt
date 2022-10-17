@@ -1,0 +1,15 @@
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GithubKenAgain/bin/Debug/net6.0/Day1GithubKenAgain
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GithubKenAgain/bin/Debug/net6.0/Day1GithubKenAgain.deps.json
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GithubKenAgain/bin/Debug/net6.0/Day1GithubKenAgain.runtimeconfig.json
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GithubKenAgain/bin/Debug/net6.0/Day1GithubKenAgain.dll
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GithubKenAgain/bin/Debug/net6.0/Day1GithubKenAgain.pdb
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GithubKenAgain/obj/Debug/net6.0/Day1GithubKenAgain.csproj.AssemblyReference.cache
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GithubKenAgain/obj/Debug/net6.0/Day1GithubKenAgain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GithubKenAgain/obj/Debug/net6.0/Day1GithubKenAgain.AssemblyInfoInputs.cache
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GithubKenAgain/obj/Debug/net6.0/Day1GithubKenAgain.AssemblyInfo.cs
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GithubKenAgain/obj/Debug/net6.0/Day1GithubKenAgain.csproj.CoreCompileInputs.cache
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GithubKenAgain/obj/Debug/net6.0/Day1GithubKenAgain.dll
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GithubKenAgain/obj/Debug/net6.0/refint/Day1GithubKenAgain.dll
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GithubKenAgain/obj/Debug/net6.0/Day1GithubKenAgain.pdb
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GithubKenAgain/obj/Debug/net6.0/Day1GithubKenAgain.genruntimeconfig.cache
+/Users/kmartinez/Documents/Lvl1/Week1/Day1GithubKenAgain/obj/Debug/net6.0/ref/Day1GithubKenAgain.dll
